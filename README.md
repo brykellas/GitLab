@@ -12,7 +12,8 @@ Repo for Module 10 assignment for Bellevue University, CSD 380
 3. git clone url.
 4. In the terminal window, navigate to the working directory you just cloned, GitLab.
 ### DEVELOPER 1
-1. Create a new branch called foundation and switch to it; git checkout -b foundation. 2. Create a file named index.html, save to the GitLab folder.
+1. Create a new branch called foundation and switch to it; git checkout -b foundation.
+2. Create a file named index.html, save to the GitLab folder.
 3. Add the base HTML structure into the page, don't worry about including anything else
 4. Stage the file for your next commit; git add index.html
 5. Check the status of your staged file; git status
@@ -26,7 +27,10 @@ Repo for Module 10 assignment for Bellevue University, CSD 380
 3. Review the changes being proposed by Developer 1
 4. If they look good, approve the changes by clicking on Merge pull request. Confirm merge.
 ### DEVELOPER 2
-1. Pull down the latest changes from the remote repository; git fetch 2. Create a new branch named quotes and switch to it 3. The index.html page is in need of some content. Add an <h1> element with a title for the page 4. Additionally, add a <blockquote> element to the page with your favorite quote, be sure to include the author 5. Go ahead and create a file named style.css, but don't worry about adding anything to it yet
+1. Pull down the latest changes from the remote repository; git fetch
+2. Create a new branch named quotes and switch to it
+3. The index.html page is in need of some content. Add an \<h1\> element with a title for the page
+4. Additionally, add a \<blockquote\> element to the page with your favorite quote, be sure to include the author 5. Go ahead and create a file named style.css, but don't worry about adding anything to it yet
 6. Stage your changes for the next commit
 7. Commit your changes, adding a pertinent message
 8. Push the branch to the remote repository and create a pull request.
