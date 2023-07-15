@@ -1,1 +1,10 @@
-
+body {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10%;
+    color: #C84630, ;
+    min-height: 100vh;
+    max-width: 1300px;
+    background-color: hsl(111, 83%, 95%);
+    margin: 0 auto;
+}
